@@ -17,6 +17,10 @@
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - UITableView/UICollectionView 的 category，用于界面没有数据显示的时候，填充提示性信息，<font color=Crimson face="黑体">Objective-C</font>。
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 一个可以定制按钮的TabBar控件，最低只需传两个数组即可完成主流App框架搭建，<font color=Crimson face="黑体">Objective-C</font>。
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 一个易于使用的UITableViewCell子类，用于显示各种过渡swippable按钮，<font color=Crimson face="黑体">Objective-C</font>。
+* [Koloda](https://github.com/Yalantis/Koloda) - KolodaView 简化实现了iOS 卡片功能，<font color=Orange face="黑体">Swift</font>。
+* [Charts](https://github.com/danielgindi/Charts) - 精美的图标绘制控件，苹果端的跨平台的 MPAndroidChart，<font color=Orange face="黑体">Swift</font>。
+* [PNChart](https://github.com/kevinzhow/PNChart) - 简单精美的图标控件库，<font color=Crimson face="黑体">Objective-C</font>。
+。
   
 
 
@@ -33,3 +37,4 @@
 * [Masonry](https://github.com/SnapKit/Masonry) - 支持 iOS 和 OSX 的自动布局，是对 NSLayoutConstraints 的简化，流畅，简单，<font color=Crimson face="黑体">Objective-C</font>。
 * [SnapKit](https://github.com/SnapKit/SnapKit) - iOS 和 OSX 自动布局，<font color=Orange face="黑体">Swift</font>。
 * [YYKit](https://github.com/ibireme/YYKit) - 一组庞大、功能丰富的 iOS 组件，包含 JSON 转换，缓存，图片加载，异步绘制界面，富文本等，<font color=Crimson face="黑体">Objective-C</font>。
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 一句代码解决键盘遮挡，简单方便，<font color=Crimson face="黑体">Objective-C</font>。
