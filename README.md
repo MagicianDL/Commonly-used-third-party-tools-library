@@ -4,6 +4,7 @@
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 网络下载工具，<font color=Crimson face="黑体">Objective-C</font>。
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - 猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，<font color=Crimson face="黑体">Objective-C</font>。
 * [SDWebImage](https://github.com/rs/SDWebImage) - 网络图片下载，<font color=Crimson face="黑体">Objective-C</font>。
+* [Alamofire](https://github.com/Alamofire/Alamofire) - 优雅的网络请求库，<font color=Orange face="黑体">Swift</font>。
 	
 	
 
@@ -20,7 +21,27 @@
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView 简化实现了iOS 卡片功能，<font color=Orange face="黑体">Swift</font>。
 * [Charts](https://github.com/danielgindi/Charts) - 精美的图标绘制控件，苹果端的跨平台的 MPAndroidChart，<font color=Orange face="黑体">Swift</font>。
 * [PNChart](https://github.com/kevinzhow/PNChart) - 简单精美的图标控件库，<font color=Crimson face="黑体">Objective-C</font>。
-。
+* [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 一个优雅的 iOS 消息类库，<font color=Crimson face="黑体">Objective-C</font>。
+* [Wonderful](https://github.com/dsxNiubility/Wonderful) - 一个关于色彩的库，这个分类里扩充了更多的颜色扩展，<font color=Crimson face="黑体">Objective-C</font>。
+* [WXTabBarController](https://github.com/leichunfeng/WXTabBarController) - 在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能，<font color=Crimson face="黑体">Objective-C</font>。
+
+
+
+
+##Animation
+
+* [RQShineLabel](https://github.com/zipme/RQShineLabel) - UILabel 的子类，给文字加上动画效果，与 [Secret App](http://capptivate.co/?s=secret) 类似，<font color=Crimson face="黑体">Objective-C</font>。
+* [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel) - 像视图一样可以扩展显示/消失动画的 UILabel，<font color=Crimson face="黑体">Objective-C</font>。
+* [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - 一个自动添加滚动特效（跑马灯）的 UILabel子类，<font color=Crimson face="黑体">Objective-C</font>。
+* [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - 可折叠的 TabBar 和 TabbarController，<font color=Crimson face="黑体">Objective-C</font>。
+* [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton) - 一个会散开的功能按钮，主体按钮被点击后，触发目录按钮的展开，选择其中一个功能子按钮或点击任意地方，触发子按钮的收缩隐藏，<font color=Crimson face="黑体">Objective-C</font>。
+
+
+
+##Database
+* [GYDataCenter](https://github.com/Zepo/GYDataCenter) - GYDataCenter 是一个直接使用 SQLite 替代 Core Data 的库，基于 FMDB，<font color=Crimson face="黑体">Objective-C</font>。
+* [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDatabase 是一个建立在 SQLite 上的 iOS & Mac 键值存储工具，<font color=Crimson face="黑体">Objective-C</font>。
+
   
 
 
@@ -38,3 +59,6 @@
 * [SnapKit](https://github.com/SnapKit/SnapKit) - iOS 和 OSX 自动布局，<font color=Orange face="黑体">Swift</font>。
 * [YYKit](https://github.com/ibireme/YYKit) - 一组庞大、功能丰富的 iOS 组件，包含 JSON 转换，缓存，图片加载，异步绘制界面，富文本等，<font color=Crimson face="黑体">Objective-C</font>。
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 一句代码解决键盘遮挡，简单方便，<font color=Crimson face="黑体">Objective-C</font>。
+* [JKCategories](https://github.com/shaojiankui/JKCategories) - iOS 各类 category 集合，<font color=Crimson face="黑体">Objective-C</font>。
+* [ProtocolKit](https://github.com/forkingdog/ProtocolKit) - Objective-C 的协议扩展，<font color=Crimson face="黑体">Objective-C</font>。
+
