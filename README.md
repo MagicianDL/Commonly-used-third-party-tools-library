@@ -1,4 +1,4 @@
-# 日常开发中收集的一些第三方库文件
+日常开发中收集的一些第三方库文件
 
 [TOC]
 
@@ -70,7 +70,7 @@
 ---
 ---
 
-###Messages
+##Messages
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 一个优雅的 iOS 消息类库，<font color=Crimson face="黑体">Objective-C</font>。
 * [Chatto](https://github.com/badoo/Chatto) - 轻量级的而聊天界面框架，<font color=Orange face="黑体">Swift</font>。
 
@@ -124,13 +124,13 @@
 * [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton) - 一个会散开的功能按钮，主体按钮被点击后，触发目录按钮的展开，选择其中一个功能子按钮或点击任意地方，触发子按钮的收缩隐藏，<font color=Crimson face="黑体">Objective-C</font>。
 
 ###Calendar
-*[GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) - 可选择时间区域的自定义日历控件，<font color=Crimson face="黑体">Objective-C</font>。
-*[ZBJCalendar](https://github.com/wanggang316/ZBJCalendar) - 简单的日历控件，<font color=Crimson face="黑体">Objective-C</font>。
-*[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - 简单实用的自定义日历控件，<font color=Crimson face="黑体">Objective-C</font>。
-*[MSCollectionViewCalendarLayout](https://github.com/erichoracek/MSCollectionViewCalendarLayout) - 类似于 iOS 日历应用，<font color=Crimson face="黑体">Objective-C</font>。
-*[FFCalendar](https://github.com/fggeraissate/FFCalendar) - 支持年，月，周，日显示的日历，<font color=Crimson face="黑体">Objective-C</font>。
-*[Calendar](https://github.com/jumartin/Calendar) - 一组显示事件调度的日历视图和控制器，<font color=Crimson face="黑体">Objective-C</font>。
-*[FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一个优秀的 iOS 7+ 日历控件，同时支持 Objective-C 和 Swift，<font color=Crimson face="黑体">Objective-C</font> & <font color=Orange face="黑体">Swift</font>。
+* [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) - 可选择时间区域的自定义日历控件，<font color=Crimson face="黑体">Objective-C</font>。
+* [ZBJCalendar](https://github.com/wanggang316/ZBJCalendar) - 简单的日历控件，<font color=Crimson face="黑体">Objective-C</font>。
+* [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - 简单实用的自定义日历控件，<font color=Crimson face="黑体">Objective-C</font>。
+* [MSCollectionViewCalendarLayout](https://github.com/erichoracek/MSCollectionViewCalendarLayout) - 类似于 iOS 日历应用，<font color=Crimson face="黑体">Objective-C</font>。
+* [FFCalendar](https://github.com/fggeraissate/FFCalendar) - 支持年，月，周，日显示的日历，<font color=Crimson face="黑体">Objective-C</font>。
+* [Calendar](https://github.com/jumartin/Calendar) - 一组显示事件调度的日历视图和控制器，<font color=Crimson face="黑体">Objective-C</font>。
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一个优秀的 iOS 7+ 日历控件，同时支持 Objective-C 和 Swift，<font color=Crimson face="黑体">Objective-C</font> & <font color=Orange face="黑体">Swift</font>。
 
 
 ###Chart
