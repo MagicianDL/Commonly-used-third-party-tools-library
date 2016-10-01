@@ -75,7 +75,9 @@
 * [Chatto](https://github.com/badoo/Chatto) - 轻量级的而聊天界面框架，<font color=Orange face="黑体">Swift</font>。
 
 
+##Navigation
 
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 一个 NavigationBar 的扩展，允许改变导航栏的外形显示（背景色...），<font color=Crimson face="黑体">Objective-C</font>。
 
 ##Network
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 网络下载工具，<font color=Crimson face="黑体">Objective-C</font>。
@@ -122,6 +124,7 @@
 
 ###Button
 * [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton) - 一个会散开的功能按钮，主体按钮被点击后，触发目录按钮的展开，选择其中一个功能子按钮或点击任意地方，触发子按钮的收缩隐藏，<font color=Crimson face="黑体">Objective-C</font>。
+* [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - 一个易于使用的图标转换按钮工具，允许平滑从一个形状变化到另一个形状，<font color=Crimson face="黑体">Objective-C</font>。
 
 ###Calendar
 * [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) - 可选择时间区域的自定义日历控件，<font color=Crimson face="黑体">Objective-C</font>。
@@ -166,6 +169,7 @@
 
 ###Navigation
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - 一个栈模拟导航控制器，<font color=Orange face="黑体">Swift</font>。
+* [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - iOS上类似trello的导航动效控件实现，<font color=Crimson face="黑体">Objective-C</font>
 
 
 ###Progress
@@ -182,15 +186,20 @@
 * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - 自动计算 UITableViewCell 高度，<font color=Crimson face="黑体">Objective-C</font>。
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - UITableView/UICollectionView 的 category，用于界面没有数据显示的时候，填充提示性信息，<font color=Crimson face="黑体">Objective-C</font>。
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 一个易于使用的UITableViewCell子类，用于显示各种过渡swippable按钮，<font color=Crimson face="黑体">Objective-C</font>。
+* [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) - UITableView 实现的炫酷的上下文菜单，<font color=Crimson face="黑体">Objective-C</font>。
 
 ###TextField
-*[MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) - UITextField 自定义特效，<font color=Crimson face="黑体">Objective-C</font>。
+* [MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) - UITextField 自定义特效，<font color=Crimson face="黑体">Objective-C</font>。
 
+
+###View
+
+* [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - 一个简单的可滑动卡片视图，<font color=Orange face="黑体">Swift</font>。
 
 ###  #Unclassified
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) - iOS 流畅的异步绘制界面工具，<font color=Crimson face="黑体">Objective-C</font>。
 * [MMGooglePlayNewsStand](https://github.com/mukyasa/MMGooglePlayNewsStand) - 模仿 Google Play NewsStand，<font color=Orange face="黑体">Swift</font>。
-
+* [ZFCityGuides](https://github.com/WZF-Fei/ZFCityGuides) - 仿写过奖地理 App 动画效果，<font color=Crimson face="黑体">Objective-C</font>。
 
 
 ---
