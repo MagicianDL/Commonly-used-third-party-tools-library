@@ -44,7 +44,12 @@
 ---
 ---
 
+##File
+* [HYFileManager](https://github.com/castial/HYFileManager) - HYFileManager一个基于NSFileManager的文件操作类，它提供一系列的静态方法，只用少量的代码，来处理经常需要处理的文件操作，使得工作更加方便快捷，<font color=Crimson face="黑体">Objective-C</font>。
 
+
+---
+---
 
 ##GestureRecognizer
 * [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) - iOS 7 之后的全屏左滑返回手势，<font color=Crimson face="黑体">Objective-C</font>。
