@@ -39,6 +39,7 @@
 ##Date & Time
 * [DateTools](https://github.com/MatthewYork/DateTools) - 简化时间和日期处理，<font color=Crimson face="黑体">Objective-C</font>。
 * [MSWeakTimer](https://github.com/mindsnacks/MSWeakTimer) - GCD 实现的线程安全的定时器，不会引起循环强引用，<font color=Crimson face="黑体">Objective-C</font>。
+* [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - 一个 NSDate 的分类，来格式化时间，例如 "A moment ago", "30 seconds ago", "5 minutes ago", "Yesterday", "Last month", "2 years ago"...，<font color=Crimson face="黑体">Objective-C</font>，<font color=Orange face="黑体">Swift</font>。
 
 
 ---
@@ -123,6 +124,10 @@
 
 ###Activity & Indicator
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - 优雅的加载动画集合，<font color=Orange face="黑体">Swift</font>。
+
+###Alert
+
+* [TSMessages](https://github.com/KrauseFx/TSMessages) - 在屏幕上方显示消息通知，<font color=Crimson face="黑体">Objective-C</font>。
 
 ###Badge
 * [WZLBadge](https://github.com/weng1250/WZLBadge) - 为任何 UIView 添加或清除 badge 的工具库，支持屏幕旋转，<font color=Crimson face="黑体">Objective-C</font>。
